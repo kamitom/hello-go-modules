@@ -8,6 +8,7 @@ require (
 	rsc.io/quote v1.5.2
 	syreclabs.com/go/faker v1.2.2
 	github.com/kamitom/greetings v0.0.1
+	github.com/appleboy/com v0.0.8
 )
 
 

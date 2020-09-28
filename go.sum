@@ -1,3 +1,5 @@
+github.com/appleboy/com v0.0.8 h1:sicxfC2hRQLu8JX5sG9DwrT+qmo9G2JbN3/QD/YGZaU=
+github.com/appleboy/com v0.0.8/go.mod h1:jnufjIC3opMlReyPPPye+8JqNvUzLm25o7h6SOy8nv0=
 github.com/google/go-cmp v0.5.2 h1:X2ev0eStA3AbceY54o37/0PQ/UWqKEiiO2dKL5OPaFM=
 github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/kamitom/stringrv v0.0.0-20200927044339-32381f069da1 h1:GKF8lW+irFLRpKOuudaM9rb07hMq6awqnBeGFyGiFc4=

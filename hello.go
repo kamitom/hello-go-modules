@@ -14,6 +14,8 @@ import (
 	fk "syreclabs.com/go/faker"
 
 	gt "github.com/kamitom/greetings"
+
+	"github.com/appleboy/com/random"
 )
 
 func main() {
@@ -38,5 +40,7 @@ func main() {
 
 	message := gt.HelloHanzawa("半沢 直樹")
 	f.Println(message)
+
+	f.Println("random: ", random.String(20))
 
 }
