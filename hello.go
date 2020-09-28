@@ -6,6 +6,10 @@ import (
 	morestr "github.com/kamitom/hello/morestrings"
 
 	cmp "github.com/google/go-cmp/cmp"
+
+	quote "rsc.io/quote"
+
+	fk "syreclabs.com/go/faker"
 )
 
 func main() {
@@ -19,5 +23,11 @@ func main() {
 
 	f.Println(morestr.ReverseRunes(string_must_reverse))
 	f.Println(cmp.Diff("hello world", "hello go"))
+
+	f.Println(quote.Opt())
+	f.Println(quote.Glass())
+	f.Println(quote.Go())
+
+	f.Println("Hola,", fk.Name().FirstName())
 
 }
