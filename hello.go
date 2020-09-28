@@ -13,7 +13,7 @@ import (
 )
 
 func main() {
-	f.Println("hello, go modules")
+	f.Println("hello, go modules2")
 	f.Println("hello, 東京走著瞧!")
 	f.Println("hello, https://golang.org/doc/code.html !")
 	f.Println("hola, https://youtu.be/3ydlmgwZBbg !")
