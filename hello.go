@@ -10,8 +10,10 @@ import (
 	quote "rsc.io/quote"
 
 	stringrv "github.com/kamitom/stringrv"
+
 	fk "syreclabs.com/go/faker"
-	// gt "github.com/kamitom/greetingsgo"
+
+	gt "github.com/kamitom/greetings"
 )
 
 func main() {
@@ -34,7 +36,7 @@ func main() {
 
 	f.Println(stringrv.Reverse(string_must_reverse2))
 
-	// message := gt.Hello("tony stark")
-	// f.Println(message)
+	message := gt.HelloHanzawa("半沢 直樹")
+	f.Println(message)
 
 }
