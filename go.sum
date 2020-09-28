@@ -1,5 +1,7 @@
 github.com/google/go-cmp v0.5.2 h1:X2ev0eStA3AbceY54o37/0PQ/UWqKEiiO2dKL5OPaFM=
 github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/kamitom/stringrv v0.0.0-20200927044339-32381f069da1 h1:GKF8lW+irFLRpKOuudaM9rb07hMq6awqnBeGFyGiFc4=
+github.com/kamitom/stringrv v0.0.0-20200927044339-32381f069da1/go.mod h1:UjRxDhCcf/4Z8R2wdaCq2nBQeZ5L7WqkerPlZT6cNYk=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
